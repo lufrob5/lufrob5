@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+:computer: **Ingeniero de Sistemas**
+
+:pencil: **Desarrollador, Analista**
+
+:learning: **Todos los días, en este momento sobre IA**
+
+### Vias de contacto
+![linkedin](www.linkedin.com/in/luis-rodríguez-18b87821)
+
 <!--
 **lufrob5/lufrob5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
