@@ -7,7 +7,12 @@
 :learning: **Todos los días, en este momento sobre IA**
 
 ### Vias de contacto
+https://github.com/AndresVesga#-con%C3%A9ctate-conmigo
 ![linkedin](www.linkedin.com/in/luis-rodríguez-18b87821)
+https://www.linkedin.com/in/luis-rodriguez-18b87821/
+
+
+
 
 <!--
 **lufrob5/lufrob5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
