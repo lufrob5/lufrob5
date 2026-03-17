@@ -4,14 +4,12 @@
 
 :pencil: **Desarrollador, Analista**
 
-📚 **Todos los días, en este momento sobre IA**
+📚 **Todos los días aprendiendo, en este momento sobre IA**
 
 ### Vias de contacto
 
 ![linkedin]
-(https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Fluis-rodr%C3%ADguez-18b87821%2F?style=flat-square&label=linkedin)
-
-https://img.shields.io/badge/linkedin-blue?style=social&logo=https%3A%2F%2Fimg.shields.io%2Fbadge%2Fgithub-repo-blue%3Flogo%3Dgithub&label=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fluis-rodr%C3%ADguez-18b87821%2F
+(https://img.shields.io/badge/linkedin-blue?style=social&logo=https%3A%2F%2Fimg.shields.io%2Fbadge%2Fgithub-repo-blue%3Flogo%3Dgithub&label=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fluis-rodr%C3%ADguez-18b87821%2F)
 
 ![linkedin]
 (https://www.linkedin.com/in/luis-rodríguez-18b87821)
