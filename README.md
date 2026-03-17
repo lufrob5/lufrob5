@@ -6,15 +6,15 @@
 
 📚 **Todos los días aprendiendo, en este momento sobre IA**
 
+👓 ⚽ 🥇 👨‍🚀
+
+
 ### Vias de contacto
 
-![linkedin]
-(https://img.shields.io/badge/linkedin-blue?style=social&logo=https%3A%2F%2Fimg.shields.io%2Fbadge%2Fgithub-repo-blue%3Flogo%3Dgithub&label=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fluis-rodr%C3%ADguez-18b87821%2F)
+![linkedin](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=https%3A%2F%2Fimg.shields.io%2Fbadge%2Fgithub-repo-blue%3Flogo%3Dgithub&label=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fluis-rodr%C3%ADguez-18b87821%2F)
 
-![linkedin]
-(https://www.linkedin.com/in/luis-rodríguez-18b87821)
+![www.linkedin.com](https://img.shields.io/badge/www.linkedin.com/in/luis-rodríguez-18b87821-up-blue?style=for-the-badge)
 
-https://www.linkedin.com/in/luis-rodriguez-18b87821/
 
 <!--
 **lufrob5/lufrob5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
