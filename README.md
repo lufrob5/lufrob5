@@ -9,8 +9,13 @@
 ### Vias de contacto
 
 ![linkedin]
-https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Fluis-rodr%C3%ADguez-18b87821%2F?style=flat-square&label=linkedin
+(https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Fluis-rodr%C3%ADguez-18b87821%2F?style=flat-square&label=linkedin)
 
+
+![linkedin]
+(https://www.linkedin.com/in/luis-rodríguez-18b87821)
+
+https://www.linkedin.com/in/luis-rodriguez-18b87821/
 
 <!--
 **lufrob5/lufrob5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
