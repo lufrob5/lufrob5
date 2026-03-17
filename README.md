@@ -9,11 +9,7 @@
 ### Vias de contacto
 
 ![linkedin]
-(https://www.linkedin.com/in/luis-rodríguez-18b87821)
-
-https://www.linkedin.com/in/luis-rodriguez-18b87821/
-
-
+https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Fluis-rodr%C3%ADguez-18b87821%2F?style=flat-square&label=linkedin
 
 
 <!--
