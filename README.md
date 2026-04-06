@@ -15,6 +15,9 @@
 
 ![www.linkedin.com](https://img.shields.io/badge/www.linkedin.com/in/luis-rodríguez-18b87821-up-blue?style=for-the-badge)
 
+### 🔭 Estoy aprendiendo
+GitHub
+
 ### :zap: Actividad Reciente
 <!--START_SECTION:activity-->
 
