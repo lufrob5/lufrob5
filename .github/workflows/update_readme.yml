@@ -21,6 +21,11 @@ jobs:
       - uses: jamesgeorge007/github-activity-readme@master
 
       - uses: Readme-Workflows/recent-activity@v2.4.1
-        env:
+     env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: "Specify a custom commit message"
+          MAX_LINES: 10
+          COMMIT_NAME: GitHub Activity Readme
+          COMMIT_EMAIL: github-actions[bot]@users.noreply.github.com
 
