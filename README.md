@@ -15,6 +15,10 @@
 
 ![www.linkedin.com](https://img.shields.io/badge/www.linkedin.com/in/luis-rodríguez-18b87821-up-blue?style=for-the-badge)
 
+### :zap: Actividad Reciente
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
 
 <!--
 **lufrob5/lufrob5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
