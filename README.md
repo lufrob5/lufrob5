@@ -18,7 +18,7 @@
 ### :zap: Actividad Reciente
 <!--START_SECTION:activity-->
 
-\<!--RECENT\_ACTIVITY:last\_update-->
+<!--RECENT\_ACTIVITY:last\_update-->
 
 <!--
 **lufrob5/lufrob5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
